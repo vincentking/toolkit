@@ -1,2 +1,9 @@
 #定时器
 http://blog.sina.com.cn/s/blog_4b2e0e610100ylgv.html
+
+#service
+http://www.2cto.com/kf/201203/124095.html
+http://www.eoeandroid.com/thread-78464-1-1.html
+
+#图片左右滑动效果
+http://fuchangle.iteye.com/blog/1497208
